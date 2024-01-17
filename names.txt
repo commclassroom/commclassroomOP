@@ -1,0 +1,25 @@
+--
+hey! i used your commclassroomOp to learn fork.And the
+steps i was followed:
+
+1.Go to any repo, at right there a option for fork.click fork
+,you can add description and then click create.
+
+2.Now you are on your Account and repo also forked.To add your
+contribution your first need to clone this repo.At first click on
+Code and copy the http and the git command
+for clone is "git clone <-http->"
+
+3.Now you can see the repo in your local.
+
+4.Create a new branch (cmd:git branch Bname).And then switch
+to that branch from you main brach using (cmd:git checkout Bname).
+
+5.Please make your valuable contribution.Push it in your repo using 
+cmd "git push origin Bname".
+
+6.Then go to your gitHub repo and you can see a button for
+as "compare and pull" at the right.Click it
+
+At last thanks to kunal for his git and github tutorials
+--
