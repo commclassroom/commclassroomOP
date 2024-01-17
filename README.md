@@ -1,3 +1,4 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+Avichal singh is a noob coder
+He is trying to learn
