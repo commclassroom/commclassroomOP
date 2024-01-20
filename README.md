@@ -1,3 +1,3 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+Utkarsh sharma learing github amazing & this community classroom is super cool!!!
