@@ -1,3 +1,3 @@
-# commclassroomOP
+# Community Classroom OP
 
-Kunal Kushwaha learing github amazing..
+- Choi Wonseo learing github amazing..
