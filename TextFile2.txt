@@ -1,0 +1,6 @@
+Hi,
+This is the second text file to test the scenario
+when already one pull request is opened nd new change is committed
+then instead of opening a new PR for it.
+It just adds a new commit to the same PR
+and increase the commit count by +1
