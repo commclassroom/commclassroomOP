@@ -1,3 +1,3 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+Kunal Kushwaha's tutorial for learning github is great..
