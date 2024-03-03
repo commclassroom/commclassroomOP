@@ -1,4 +1,1 @@
-rishi chandra is op one 
-i like him  most
-
-
+i love kunal khsuhwa 
