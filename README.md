@@ -1,3 +1,4 @@
-# commclassroomOP
+﻿# commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+Kunal Kushwaha learning Github is amazing!
+Vibhor wants to thank Kunal for creating this amazing tutorial!
