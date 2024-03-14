@@ -1,3 +1,3 @@
-# commclassroomOP
+# Community CLassroom OP
 
-Kunal Kushwaha learing github amazing..
+- Shruti Doshi says that this community is amazing.
