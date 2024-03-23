@@ -1,3 +1,3 @@
-# commclassroomOP
+# Community Classroom OP
 
-Kunal Kushwaha learing github amazing..
+Zina Tugsjargal learning github amazing..
