@@ -1,3 +1,4 @@
 # commclassroomOP
 
-Kunal Kushwaha says community is amazing..
+This is classroom community useful for everyone
+..
