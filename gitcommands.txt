@@ -1,0 +1,19 @@
+git init :- to initialise git repository
+git status :- to check the status of repository
+git add filename :- to add file to be tracked
+git add . :- to add all untracked files in the current repo
+git commit -m "" : to commit currently added files, -m is for message
+git log : to check logs of the commits
+git restore --staged filename : to remove the file from the tracked files
+git reset commit_id : to move to the previous commit, this will remove all the commits above the commit_id
+git stash : to stash all the tracked changes, this will not include them in the commit
+git stash pop : to bring back all the stashed changes
+git stash clear : this will clear all the stashed changes
+git remote add origin repo_url : this will add repo url to the project, remote is for url, add is to add the url, origin is for the url, repo_url will be the repository url
+git remote -v : to check all the urls attached to the project
+git push -u origin main : to push to changes
+git remote add updtream repo_url : upstream url from which you have forked the repo
+git branch branch_name : to create new branch
+git checkout branch_name : to checkout the new branch
+git config --global user.name "Linesh Bhanushali" : to change the author name globally
+git config --global user.email "bhanushali.linesh@gmail.com" : to change the author email id globally
