@@ -1,3 +1,5 @@
-# commclassroomOP
+# Community Classroom OP
 
-Kunal Kushwaha learing github amazing..
+- Kunal Kushwaha says that this community is amazing.
+- Charishma is learning something new and it's interesting...
+- Thanks for the tutorial...
