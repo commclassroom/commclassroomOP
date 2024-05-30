@@ -1,0 +1,1 @@
+This the text I'm adding on the names.txt file, while I'm practising the github.
