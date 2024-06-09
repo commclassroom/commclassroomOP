@@ -1,3 +1,4 @@
-# commclassroomOP
-
-Kunal Kushwaha learing github amazing..
+ Not a big fan of java
+ welp
+ gotta earn money
+ for what idk
