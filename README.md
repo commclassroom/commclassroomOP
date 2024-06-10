@@ -1,3 +1,5 @@
-# commclassroomOP
+My classroom
 
-Kunal Kushwaha learing github amazing..
+having fun with learning github
+haven't feel better in few months
+time
