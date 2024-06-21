@@ -1,1 +1,1 @@
-Adarsh says this project is OP 
+Adarsh says he likes your community 
