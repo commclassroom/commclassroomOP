@@ -1,3 +1,2 @@
-# commclassroomOP
-
-Kunal Kushwaha learing github amazing..
+-Adarsh says this community is amazing
+-Adarsh says he likes this community
