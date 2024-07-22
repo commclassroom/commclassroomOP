@@ -1,0 +1,1 @@
+New text added to check git merge
