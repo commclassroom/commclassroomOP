@@ -1,3 +1,2 @@
 # commclassroomOP
-
-Kunal Kushwaha learing github amazing..
+Siddhant Mishra is learning git with Kunal Kushwaha,,..
