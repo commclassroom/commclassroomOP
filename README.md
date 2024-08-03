@@ -1,3 +1,5 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+Kunal Kushwaha's teaching github is  amazing..
+Explanation is very easy
+
