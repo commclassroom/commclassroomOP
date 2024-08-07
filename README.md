@@ -1,3 +1,3 @@
 # commclassroomOP
-
-Kunal Kushwaha learing github amazing..
+Satwika is learning github
+Kunal Kushwaha teaching github amazing..
