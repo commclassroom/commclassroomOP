@@ -1,3 +1,3 @@
 # commclassroomOP
-
-Kunal Kushwaha learing github amazing..
+my name is satvik and i am changing this .
+kunal Kushwaha learing github amazing..
