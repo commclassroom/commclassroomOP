@@ -1,0 +1,7 @@
+Syncing fork --->
+	git fetch --all --prune
+	git reset --hard upstream/main
+	git push originm main
+
+OR 
+	git pull upstream/main
