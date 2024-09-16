@@ -1,0 +1,10 @@
+Hello,
+
+First Change
+
+This is my first change after forking this repo to my account.
+
+Ready to add.
+now modifying the file after adding to staged area
+file is added to staging
+removed from staging
