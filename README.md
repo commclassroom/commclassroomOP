@@ -1,3 +1,4 @@
-# commclassroomOP
+# Community Classroom OP
 
-Kunal Kushwaha learing github amazing..
+- Kartik says that this is a practice seccession.
+- Kartik says that he has lot of pending work.
