@@ -1,0 +1,4 @@
+Class - group of properties and functions
+Object - instance of a class
+
+new operator - dynamic memory allocation, cannot be used with primitive data type like int, char etc
