@@ -1,3 +1,5 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+Kunal Kushwaha learing github amazing...
+
+Abdul Sami feels this community is fabulous... 
