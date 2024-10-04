@@ -1,3 +1,4 @@
 # commclassroomOP
-
-Kunal Kushwaha learing github amazing..
+- Kunal Kushwaha community classes are very interesting.
+- He is very good trainer.
+- I liked his videos on YouTube.
