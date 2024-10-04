@@ -1,0 +1,6 @@
+Hi my name is surya .R
+I am learning git 
+
+hello commit 
+
+this commit is from newfeature.
