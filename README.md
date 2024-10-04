@@ -1,3 +1,2 @@
-# commclassroomOP
-
-Kunal Kushwaha learing github amazing..
+what is your problem bro seriously
+not a probelm nannaaasnknvbsr.
