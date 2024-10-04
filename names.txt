@@ -1,0 +1,1 @@
+hi I think now i have an idea of git branches , git checkout and git pull request.
