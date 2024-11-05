@@ -1,3 +1,3 @@
-# commclassroomOP
+# Community Classroom OP
 
-Kunal Kushwaha learing github amazing..
+- Seth Love says that this commnity is amazing.
