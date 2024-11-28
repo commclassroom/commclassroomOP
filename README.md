@@ -1,3 +1,2 @@
 # commclassroomOP
-
-Kunal Kushwaha learing github amazing..
+- Adarsh says Kunal Bhaiya's teaching way is Amazing.
