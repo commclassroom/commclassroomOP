@@ -1,3 +1,5 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+Joel Gladwin is learning git and github from kunal.
+
+kunal bro is goated.
