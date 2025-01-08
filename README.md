@@ -1,3 +1,3 @@
-# commclassroomOP
+# Community Classroom OP
 
-Kunal Kushwaha learing github amazing..
+- Nipun Gupta says that this community is amazing.
