@@ -1,1 +1,1 @@
-ECHO is on.
+hotel is open.
