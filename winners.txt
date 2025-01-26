@@ -1,0 +1,4 @@
+Google
+Microsoft
+OpenAI
+Nvidia
