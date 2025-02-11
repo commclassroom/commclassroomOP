@@ -1,3 +1,3 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+Sayan Das says that learning Git and Github from Kunal Kushwaha is amazing..
