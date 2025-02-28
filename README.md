@@ -1,3 +1,4 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+Yo yo yo mofos.
+Daddy in da house.
