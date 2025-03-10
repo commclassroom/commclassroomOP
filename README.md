@@ -1,3 +1,4 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+- Manan Khanna said that this community is amazing.
+Manan is genious
