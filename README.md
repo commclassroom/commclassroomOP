@@ -1,3 +1,7 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+Kunal Kushwaha learing github amazing.
+
+ishy is amazing .
+what hell is happening 
+
