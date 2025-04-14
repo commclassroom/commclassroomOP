@@ -1,3 +1,3 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+i am glad that i choosed correct yt channel.
