@@ -1,3 +1,4 @@
-# commclassroomOP
+# Community Classroom OP
 
-Kunal Kushwaha learing github amazing..
+Kunal Kushwaha says that this coding community is amazing.
+I says that this is a mind-blowing, fantastic community.
