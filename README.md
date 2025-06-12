@@ -1,3 +1,4 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+- Hey there, this is my first changes.
+Kunal Kushwaha learinng github amazing..
