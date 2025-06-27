@@ -1,0 +1,4 @@
+Added a new functionality in different branch. 
+
+The changes made by this file will be pushed in a different branch so that we can have different pull requests for different features. 
+As making these changes in exisiting branch will consider these changes and any exisiting changes/ commits in the branch as single pull request, which makes it hard for people reviewing the code when multiple features are being updated. 
