@@ -1,3 +1,2 @@
 # commclassroomOP
-
-Kunal Kushwaha learing github amazing..
+Cherry is learing from Kunal bro github, it was amazing..
