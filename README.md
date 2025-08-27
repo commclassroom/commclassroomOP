@@ -1,3 +1,5 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+welcome to sam's github ID
+-this is an example 
+
