@@ -1,3 +1,3 @@
-# commclassroomOP
+# Community Classroom OP
 
-Kunal Kushwaha learing github amazing..
+- David Varga says that Kunal's GitHub voodoo is very helpful.
