@@ -1,3 +1,2 @@
-# commclassroomOP
+Harshitha says that this community class is awesome!!
 
-Kunal Kushwaha learing github amazing..
