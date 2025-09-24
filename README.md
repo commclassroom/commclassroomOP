@@ -1,3 +1,3 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+-It's great to learn DSA from Kunal Kushwaha!!!
