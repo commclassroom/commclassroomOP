@@ -1,3 +1,4 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+Kunal Kushwaha  says that this community is amazing 
+and kunal kushwaha is teachinng git and github in this community..
