@@ -2,4 +2,4 @@
 
 I have made some changes in the readme file
 Kunal Kushwaha learing github amazing..
-Samyak Gupta says that this community is amazing
+Samyak Gupta says this community is amazing
