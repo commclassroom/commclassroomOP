@@ -1,0 +1,8 @@
+Steps followed:
+1. fork the upstream repository to your own repository (origin). [Upstream is the original repository]
+2. clone the origin on your local system. (git clone <fork url>)
+3. connect the local repository to the upstream so as to check for any updates in the upstream (git remote add upstream <origin url>)
+
+NOTE: It is advised to have separate branch for each new feature that is being worked upon. 
+      There can only we a single pull request for a branch.
+4. After pushing the updates to the origin, initiate a pull request to the upstream.
