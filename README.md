@@ -1,3 +1,7 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+Yash says learning github is amazing and kunal is a great tutor.
+Github is cool as well.
+
+
+
