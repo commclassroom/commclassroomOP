@@ -1,3 +1,4 @@
-# commclassroomOP
+# Community Classrom OP
 
-Kunal Kushwaha learing github amazing..
+-Kunal Kushwaha says that this community is amazing.
+-This is one of the best sessions.
