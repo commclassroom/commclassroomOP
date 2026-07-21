@@ -1,3 +1,4 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+- Kunal Kushwaha is saying that github is amazing.
+- Dhruval Patel is saying that Kunal is amazing tutor!
