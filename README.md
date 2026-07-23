@@ -1,3 +1,3 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+Alok Raj says that kunal kushwaha's teaching style is amazing.
