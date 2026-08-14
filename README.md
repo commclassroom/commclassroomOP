@@ -1,3 +1,10 @@
-# commclassroomOP
+# commclassroomOP!
 
-Kunal Kushwaha learing github amazing..
+Apple
+Banana
+Strawberry
+Pineapple
+Guava
+Chikoo
+
+
