@@ -1,3 +1,3 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+-I, Pratyush Sambyal am learning how to use Git and Github.
