@@ -1,4 +1,4 @@
 # commclassroomOP
 
 Kunal Kushwaha learing github amazing.
-Vedant srivastava learnig git and github in a day!
+this is a example for merge conflicts
