@@ -1,0 +1,4 @@
+1 branch= 1 pull request
+So it's recommended to create a separate pull request for adding a new feature; otherwise, all the features will mix up in a single pull request
+
+We should never commit to the main branch, as all the commits made will go into the main branch that will only make it difficult to find and change the features 
